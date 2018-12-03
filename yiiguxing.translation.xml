@@ -1,0 +1,36 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastLanguages">
+      <language-pair source="ENGLISH" target="ENGLISH" />
+    </option>
+    <histories>
+      <item value="Enclosing" />
+      <item value="狱警代购" />
+      <item value="监狱列表" />
+      <item value="被执行" />
+      <item value="Observer" />
+      <item value="简单" />
+      <item value="j简单" />
+      <item value="Progress Dialog" />
+      <item value="ProgressDialog" />
+      <item value="ProgressBar" />
+      <item value="loading" />
+      <item value="进度" />
+      <item value="rationale" />
+      <item value="Set rationale listener." />
+      <item value="Launch the application's details settings." />
+      <item value="Return whether &lt;em&gt;you&lt;/em&gt; have granted the permissions." />
+      <item value="verbose" />
+      <item value="当前" />
+      <item value="日志等级" />
+      <item value="监狱" />
+      <item value="用户" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+</application>

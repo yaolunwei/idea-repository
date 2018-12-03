@@ -1,0 +1,8 @@
+<templateSet group="me">
+  <template name="mc" value="/**&#10; * &lt;pre&gt;&#10; *     author : ylw&#10; *     e-mail : bigoatsm@gmail.com&#10; *     time   : $DATE$&#10; *     desc   :&#10; * &lt;/pre&gt;&#10; */" description="class" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
