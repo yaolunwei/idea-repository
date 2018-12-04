@@ -4,6 +4,8 @@
       <language-pair source="ENGLISH" target="ENGLISH" />
     </option>
     <histories>
+      <item value="有效验证" />
+      <item value="valid" />
       <item value="Enclosing" />
       <item value="狱警代购" />
       <item value="监狱列表" />
@@ -29,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
